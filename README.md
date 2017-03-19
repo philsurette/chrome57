@@ -1,2 +1,2 @@
 # chrome57 experiments
-This repo will contain simple tests of various Chrome57 features.
+Experiments with Chrome 57 features, building towards progressive web apps.
